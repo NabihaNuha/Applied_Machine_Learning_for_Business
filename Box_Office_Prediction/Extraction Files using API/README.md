@@ -1,0 +1,1 @@
+These are codebooks where Box Office and TMDb APIs were used to extract necessary features for the prediction model. Please do not run them as they may take from a few minutes to several hours depending on the file. They are here only for reference.
